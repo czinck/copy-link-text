@@ -1,9 +1,9 @@
 {
     "manifest_version": 3,
 
-    "name": "Context menu: Copy link text",
+    "name": "Copy link text",
     "description": "Add a context menu option to links to copy the text of the link",
-    "version": "1.0",
+    "version": "1.0.1",
 
     "author": "Christian Zinck",
     "homepage_url": "https://github.com/czinck/copy-link-text",

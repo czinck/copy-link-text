@@ -3,7 +3,7 @@
 // again. Menu registrations in event pages persist across extension restarts.
 browser.contextMenus.create({
         id: "copy-link-text-to-clipboard",
-        title: "Copy link text to clipboard",
+        title: "Copy link text",
         contexts: ["link"],
     },
     // See https://extensionworkshop.com/documentation/develop/manifest-v3-migration-guide/#event-pages-and-backward-compatibility
